@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="2000" viewBox="0 0 3000 2000">
+  <g id="white-background">
+    <rect width="3000" height="2000" fill="#fff"/>
+  </g>
+  <g id="hot-pink-stripe">
+    <rect y="850" width="3000" height="300" fill="#ff69b4"/>
+  </g>
+</svg>
